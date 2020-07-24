@@ -1,5 +1,5 @@
 # ooc
-Object-Oriented in C   
+Object-Oriented C   
 ## To Compile   
 First, convert source file to object files     
 `gcc -c -I./lib/ ./lib/strobj.c ./lib/garcol.c ./string_gc.c`   
